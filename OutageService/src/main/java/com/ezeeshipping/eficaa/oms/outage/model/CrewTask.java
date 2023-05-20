@@ -53,7 +53,7 @@ public class CrewTask extends BaseObject implements java.io.Serializable {
 	private String transformername;
 
 	public CrewTask() {
-0	}
+	}
 
 	public CrewTask(Date plannedStartDate, Date plannedEndDate, String jobDetails) {
 		this.plannedStartDate = plannedStartDate;
